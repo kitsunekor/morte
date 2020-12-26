@@ -18,6 +18,8 @@ match = re.match(regex, addressToVerify)
 if match == None:
 	print('Bad Syntax')
 	raise ValueError('Bad Syntax')
+egssdfvsd
+
 
 # Get domain for DNS lookup
 splitAddress = addressToVerify.split('@')
